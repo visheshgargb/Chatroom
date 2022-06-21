@@ -31,8 +31,9 @@ Additional Tasks-
 1. Chat room server is implemented from the concepts of socket programming and multi-threading.
 2. The concept of mutex has been used while adding and removing clients from the chat room for proper synchronization.
 3. The client can exit the chat room by typing “#exit”. References-
-4. https://www.geeksforgeeks.org/socket-programming-cc/ • https://www.geeksforgeeks.org/multithreading-c-2/
-5. https://beej.us/guide/bgnet/pdf/bgnet_a4_c_1.pdf
+4. https://www.geeksforgeeks.org/socket-programming-cc/
+5. https://www.geeksforgeeks.org/multithreading-c-2/
+6. https://beej.us/guide/bgnet/pdf/bgnet_a4_c_1.pdf
 
 Video Illustration of project- 
 
